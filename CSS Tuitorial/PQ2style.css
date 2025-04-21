@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia;
+}
+
+p {
+    background-color: brown;
+    color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+}
+
+h4 {
+    text-align: center;
+}
+
+a {
+    background-color: green;
+    text-decoration: none;
+}

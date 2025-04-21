@@ -1,0 +1,27 @@
+ h1 {
+    text-align: center;
+    text-decoration: wavy red underline;
+    /* border: solid;
+    width: 50%; */
+    letter-spacing: 3px;
+ }
+
+ h3 {
+   text-align: start;
+   text-decoration: double green line-through;
+ }
+
+ p {
+   text-align: justify;
+   font-weight: 100;
+   line-height: 1.5;
+ }
+
+ h2 {
+   font-weight: 800;
+   text-decoration: dashed yellow overline;
+ }
+
+ a {
+   text-decoration: none;
+ }
